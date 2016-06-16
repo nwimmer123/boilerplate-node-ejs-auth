@@ -1,6 +1,6 @@
 This boilerplate has working auth and login using EJS. Use it to make a new app that requires login.
 
- ## To Install 
+## To Install
 
 Clone https://github.com/nwimmer123/boilerplate-node-ejs-auth.git
 
